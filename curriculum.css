@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+h3{
+    color: green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+h2
+{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+p
+{
+    font-size: 16px;
+
+
+}
+.imagen
+{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
+
+li{
+    color: black;
+    text-align: center;
+}
+
+.texto
+{
+    font-size: 16px;
+    
+}
+.aficiones
+{
+    color: black;
+}

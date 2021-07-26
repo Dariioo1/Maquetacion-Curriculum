@@ -1,0 +1,110 @@
+body
+{
+    background-color: aqua;
+
+}
+
+h2
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    text-align: center;
+
+}
+
+.inicio
+{
+    margin-left: 730px;
+    color: black;
+}
+
+h3
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
+
+.musica
+{
+    height: 220px;
+    width: 440px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 550px;
+   
+}
+div
+{
+    padding: auto;
+}
+label
+{
+    padding: 12px;
+    
+}
+input
+{
+    padding: 6px;
+    margin-right: 20px;
+}
+
+form
+{
+    text-align: center;
+    padding: 10px;
+}
+
+textarea
+{
+    resize: none;
+    padding: 9px;
+    margin-top: 2px;
+    height: 90px;
+    margin-right: 7px;
+    width: 180px;
+}
+
+
+button[type="submit"]
+{
+    background-color: green;
+    text-align: center;
+    margin-left: 56px;
+    width: 90px;
+    font-size: 17px;
+}
+.numero
+{
+    padding: 4px;
+}
+
+.apellidos
+{
+    margin-right: 7px;
+    padding: 5px;
+}
+
+.telefono
+{
+    padding: 4px;
+    margin-right: 1px;
+}
+
+.email
+{
+    margin-left: 18px;
+    padding: 4px;
+}
+
+.mover
+{
+    position: relative;
+    
+    top:-95px;
+
+}
